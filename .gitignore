@@ -1,0 +1,3 @@
+# Project exclude paths
+/static/node_modules/
+/venv/
